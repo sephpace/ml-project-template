@@ -1,0 +1,6 @@
+.idea
+venv
+data
+!data/download.sh
+results
+!results/.gitkeep
